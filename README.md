@@ -1,6 +1,8 @@
 # DEMO
 https://poor-turkey.surge.sh/
 
+Note : The backend of the project does not belong to me. I used fake api via https://fakeapi.platzi.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
