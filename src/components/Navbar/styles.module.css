@@ -1,0 +1,40 @@
+.nav{
+    padding: 13px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px gray;
+    line-height: 2px;
+    align-items: center;
+}
+
+.nav .left{
+    display: flex;
+    align-items: center;
+}
+
+.nav .left .menu{
+    display: flex;
+    margin-left: 40px;
+    align-items: center;
+}
+
+.nav .left .menu li a {
+    color: #524f4f;
+    text-decoration: none;
+    font-size: 1.1rem;
+    padding: 3px 16px;
+    display: block;
+}
+
+.nav .left .menu li a:hover {
+    color: black;
+}
+
+.nav .right{
+    display: flex;
+    gap: 1rem;
+}
+
+.logo{
+    font-weight: bold;
+}
